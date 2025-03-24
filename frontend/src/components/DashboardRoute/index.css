@@ -1,0 +1,41 @@
+.map-logout-button {
+  background-color: blue;
+  color: white;
+  padding: 8px;
+  border: 1px solid blue;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.dashboard-container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard-heading {
+  font-weight: bold;
+  color: #000000;
+  font-size: 25px;
+  margin-bottom: 1%;
+}
+
+.dashboard-ul-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.dashboard-each-list {
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+  font-size: 25px;
+}
